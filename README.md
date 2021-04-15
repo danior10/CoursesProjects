@@ -1,2 +1,2 @@
 # CoursesProjects
-Things I did while learning new technologies
+Projects I did while learning new technologies
